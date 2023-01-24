@@ -19,3 +19,5 @@ Simply add the UdonAntiCheat script to your project and attach the script to an 
 
 ### Planned Features:
 - Anti Fly
+
+(I'm planning to continue working on this once I require new features for my worlds)
