@@ -3,7 +3,7 @@
 ## Basic Anti-Cheat for VRChat Worlds
 
 
-### Current Features:
+### Features:
 - Anti Speed
 - Anti Avatar Dashing
 
