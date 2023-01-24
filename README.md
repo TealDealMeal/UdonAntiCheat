@@ -13,7 +13,7 @@
 
 
 ### Setup:
-Simply add the UdonAntiCheat script to your project and attach the script to an object of your choice
+Attach the UdonAntiCheat component to an object of your choice
 - For the speed limit, use the maximum movement speed multiplied by 2
 
 
