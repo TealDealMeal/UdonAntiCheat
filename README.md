@@ -19,6 +19,7 @@ Attach the UdonAntiCheat component to an object of your choice
 
 ### Planned Features:
 - Anti Fly
+- Anti Playspace
 
 (I'm planning to continue working on this once I require new features for my worlds)
 
